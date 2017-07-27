@@ -12,7 +12,7 @@ digital pieces of hardware with one another, ergo the bathroom scale and Arduino
 
 ## Why am I making this?
 I have found that I am a heavy sleeper, and that I often don't give myself enough time to relax and enjoy my morning before my day gets
-started. With this, after the first alarm has waken me up, unless I get up it will continue to go off indefinetely.
+started. With this, after the first alarm has waken me up, it will continue to go off unless I get up and start getting ready right away
 
 ## Updates
 Soon to be uploaded:
