@@ -16,6 +16,6 @@ started. With this, after the first alarm has waken me up, it will continue to g
 
 ## Updates
 Soon to be uploaded:
-* Hardwqare Used
+* Hardware Used
 * Code Used
 * Progress Pictures/Videos
